@@ -1,6 +1,7 @@
 # Multimediagenerierung mittels Künstliche Intelligenz: Schülerworkshop
 
-![Title image](img/title_img.png)
+| ![Title image](img/title_img.png) |
+| :-------------------------------: |
 
 ## Motivation
 
@@ -10,14 +11,7 @@
 
 ## Infrastruktur zur Workshopdurchführung
 
-Für diesen Workshop ist ein Google Account erforderlich. Zum Codeausführung wird Google Colab, auch bekannt als Google Colaboratory benutzt. Es ist eine Cloud-basierte Plattform von Google, die es Benutzern ermöglicht, Python-Notebooks auszuführen und zu teilen. Es basiert auf der beliebten Open-Source-Jupyter-Plattform und bietet viele Vorteile für KI-Projekte.
-Hier sind einige Gründe, warum Google Colab für unsere KI-Projekt nützlich ist:
-
-1. Kostenlose Cloud-Plattform zum Ausführen von Python-Notebooks.
-2. Unterstützung von GPUs und TPUs für schnelles Deep Learning.
-3. Vorinstallierte KI-Bibliotheken für einfache Anwendungsentwicklung.
-4. Einfache Zusammenarbeit und Teilen von Projekten.
-5. Cloud-basierte Umgebung, keine eigene Hardware nötig.
+Für diesen Workshop ist ein Google Account erforderlich. Zum Codeausführung wird Google Colab, auch bekannt als Google Colaboratory benutzt. Es ist eine Cloud-basierte Plattform von Google, die es Benutzern ermöglicht, Python-Notebooks auszuführen und zu teilen.
 
 **Wichtig!** Eine detaillierte Anleitung, wie die Dateien in Google Colab gestartet werden können, sowie der Quellcode zur Erstellung von Multimedia finden Sie in der [Anleitung](ANLEITUNG_4.pdf). Hier wird lediglich eine kurze Übersicht des Workshops präsentiert.
 
@@ -31,7 +25,7 @@ Hier sind einige Beispiele gute Prompts:
 
 1. [superpower], teenager girl, super power, drawing, artwork, fantasy hero character portrait \*(z.B. Firestarter, Plant Whisperer, Wind Rider usw.)
 
-   ![Img1](img/img_1.png)![Img2](img/img_2.png)
+![Img1](img/img_1.png)
 
 2. steampunk city, christmas, sunset, photorealism, from above
 
