@@ -10,6 +10,14 @@
 2. Kein Interesse an MINT-Fächern: Viele junge Menschen interessieren sich nicht für MINT-Fächer, wie Informatik, Mathematik und Naturwissenschaften. Dies hat zur Folge, dass es einen Fachkräftemangel in diesen Bereichen gibt.
 3. Diskrepanz zwischen Nutzung von KI in der Arbeitswelt und Schule/Bildung: In der Arbeitswelt wird KI bereits in vielen Bereichen eingesetzt. In der Schule und in der Bildung wird KI hingegen noch wenig eingesetzt. Dies führt dazu, dass junge Menschen nicht die Fähigkeiten und Kenntnisse erwerben, die sie benötigen, um in einer von KI geprägten Arbeitswelt erfolgreich zu sein.
 
+## Verwendete Tools
+
+Für die Erstellung dieses Workshops habe ich mit folgenden Tools gearbeitet:
+
+- **diffusers**-Bibliothek für die Inferenz von Diffusionsmodellen zur Generierung von Bildern aus benutzerdefinierten Prompts
+- **transformers**-Bibliothek zum Herunterladen, Manipulieren und Ausführen von vortrainierten, Open-Source-AI-Modellen
+- **PyTorch**-Bibliothek, um diese AI-Modelle nutzen zu können
+
 ## Infrastruktur zur Workshopdurchführung
 
 Für diesen Workshop ist ein Google Account erforderlich. Zum Codeausführung wird Google Colab, auch bekannt als Google Colaboratory benutzt. Es ist eine Cloud-basierte Plattform von Google, die es Benutzern ermöglicht, Python-Notebooks auszuführen und zu teilen.
@@ -44,19 +52,10 @@ Hier sind einige Beispiele gute Prompts:
 
 ![Img6](img/img_6.png)
 
-## Sprachgenerierung
+## Sprachgenerierung, Musikgenerierung und Videogenerierung
 
-Damit eine Stimme mit der Vertonung des vorgegebenen Textes generiert werden kann, muss zunächst eine Musteraufnahme erstellt werden. Die entsprechende Funktionalität sieht wie folgt aus:
-
-![Musteraufnahme](img/sprachgenerierung_aufnahme.png)
-
-Für die Sprachgenerierung müssen ebenfalls die entsprechenden Eingabedaten in das Formular eingegeben werden: Text, Emotion und Generierungsqualität (eine Beschreibung jeder Kategorie finden Sie im beigefügten [Anleitung](ANLEITUNG_4.pdf), p. 7.2).
-
-![Sprachgenerierung prompts](img/sprachgenerierung_prompts.png)
-
-## Musikgenerierung und Videogenerierung
-
-Die Generierung von Musik und Videos erfolgt auf ähnliche Weise, und Details können ebenfalls im beigefügten [Anleitung](ANLEITUNG_4.pdf), pp. 8.2 und 9.2). nachgelesen werden.
+Die Generierung von Musik und Videos erfolgt auf ähnliche Weise, und Details können ebenfalls im beigefügten [Anleitung](ANLEITUNG_4.pdf), pp. 7.2, 8.2 und 9.2) nachgelesen werden.
+Diese Teile des Workshops wurden von einer anderen Person erstellt, weshalb sie hier nicht präsentiert werden.
 
 ## Fazit
 
