@@ -1,7 +1,8 @@
 # Multimediagenerierung mittels Künstliche Intelligenz: Schülerworkshop
 
-| ![Title image](img/title_img.png) |
-| :-------------------------------: |
+<p align="center">
+  <img src="img/title_img.png" alt="Title image" />
+</p>
 
 ## Motivation
 
