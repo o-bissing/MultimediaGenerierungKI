@@ -14,7 +14,7 @@
 
 Für die Erstellung dieses Workshops habe ich mit folgenden Tools gearbeitet:
 
-- **Python** as main programming language
+- **Python** as a main programming language
 - **diffusers**-Bibliothek für die Inferenz von Diffusionsmodellen zur Generierung von Bildern aus benutzerdefinierten Prompts
 - **transformers**-Bibliothek zum Herunterladen, Manipulieren und Ausführen von vortrainierten, Open-Source-AI-Modellen
 - **PyTorch**-Bibliothek, um diese AI-Modelle nutzen zu können
